@@ -1,4 +1,4 @@
-Yes — **`@mcp.tool()` is registering the function as an MCP tool.** It is **not calling the function at that moment**.
+**`@mcp.tool()` is registering the function as an MCP tool.** It is **not calling the function at that moment**.
 
 The important distinction is:
 
